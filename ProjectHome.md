@@ -1,0 +1,1 @@
+Simple script to split podcasts into small chunks - might be useful for portable screenless MP3 players, to improve seeking.
